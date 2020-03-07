@@ -1,0 +1,24 @@
+{
+	"name": "swdv665-wk1-assignment",
+	"version": "0.0.0",
+	"description": "",
+	"main": "dist/grocery.js",
+	"scripts": {
+		"start": "tsc --watch",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SWDV-665/week-1-typescript-assignment-colinknebl.git"
+	},
+	"keywords": [],
+	"author": "Colin Knebl",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SWDV-665/week-1-typescript-assignment-colinknebl/issues"
+	},
+	"homepage": "https://github.com/SWDV-665/week-1-typescript-assignment-colinknebl#readme",
+	"devDependencies": {
+		"typescript": "^3.8.3"
+	}
+}
